@@ -20,7 +20,8 @@ Built with PHP, MySQL, HTML, CSS, JavaScript, Bootstrap 5 and Chart.js (Bootstra
 7. If your folder name, database name or MySQL password is different, edit `config/config.php`.
 
 On free hosting (for example InfinityFree), create the database in the control panel, select it in phpMyAdmin, import the same files, and put the host, database name, user and password from the panel into `config/config.php`. If the site is not in a subfolder, set `BASE_URL` to an empty string.
-**Hosted demo:**https://dlcregistration.freedev.app
+
+**Hosted demo:**https://dlcregistration.freedev.app/dlc-registration/login.php
 
 ## Logins
 - Admin: `admin@dlc.test` / `Admin@12345`
