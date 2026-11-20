@@ -16,10 +16,11 @@ Built with PHP, MySQL, HTML, CSS, JavaScript, Bootstrap 5 and Chart.js (Bootstra
 3. In phpMyAdmin, create a database named `dlc_registration`, select it, then import `database/schema.sql`.
 4. Already imported an earlier schema? Import `database/migration_optional_features.sql` once instead.
 5. Optional: import `database/sample_data.sql` to fill the dashboard with test data.
-6. Open http://localhost/dlc-registration/
+6. After starting Apache and MySQL and importing the database, Open http://localhost/dlc-registration/ in a browser on the same computer 
 7. If your folder name, database name or MySQL password is different, edit `config/config.php`.
 
 On free hosting (for example InfinityFree), create the database in the control panel, select it in phpMyAdmin, import the same files, and put the host, database name, user and password from the panel into `config/config.php`. If the site is not in a subfolder, set `BASE_URL` to an empty string.
+**Hosted demo:**https://dlcregistration.freedev.app
 
 ## Logins
 - Admin: `admin@dlc.test` / `Admin@12345`
