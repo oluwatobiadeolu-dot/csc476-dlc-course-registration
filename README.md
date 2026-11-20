@@ -34,3 +34,8 @@ On free hosting (for example InfinityFree), create the database in the control p
 Out of scope: fee payment, exams, results, transcripts, email or SMS, connection to the real portal.
 
 Test steps are in `docs/TEST_GUIDE.md`.
+
+## Project Team
+Adeolu, oluwatobi Inioluwa (E050797): Project coordination, proposal and questionnaire preparation, prototype testing, and preparation and integration of the final writeup.
+Olaolu, Hephzibah Samuel (E050613): Design and implementation of the web application, including student and administrator functions and user-interface improvements.
+Obarisiagbon, Stephenie (E050793): Drafting of Chapters One to Three and the reference list.
