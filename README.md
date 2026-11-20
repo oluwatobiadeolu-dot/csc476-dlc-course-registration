@@ -3,6 +3,11 @@
 Standalone prototype of an enhanced course registration system for the Distance Learning Centre, University of Ibadan.
 It uses made-up data and does not connect to the University's portal.
 
+**Project Team**
+- Adeolu, oluwatobi Inioluwa (E050797): Project coordination, proposal and questionnaire preparation, prototype testing, and preparation and integration of the final writeup.
+- Olaolu, Hephzibah Samuel (E050613): Design and implementation of the web application, including student and administrator functions and user-interface improvements.
+- Obarisiagbon, Stephenie (E050793): Drafting of Chapters One to Three and the reference list.
+
 Built with PHP, MySQL, HTML, CSS, JavaScript, Bootstrap 5 and Chart.js (Bootstrap and Chart.js load from a CDN).
 
 ## Setup (XAMPP)
@@ -34,8 +39,3 @@ On free hosting (for example InfinityFree), create the database in the control p
 Out of scope: fee payment, exams, results, transcripts, email or SMS, connection to the real portal.
 
 Test steps are in `docs/TEST_GUIDE.md`.
-
-## Project Team
-Adeolu, oluwatobi Inioluwa (E050797): Project coordination, proposal and questionnaire preparation, prototype testing, and preparation and integration of the final writeup.
-Olaolu, Hephzibah Samuel (E050613): Design and implementation of the web application, including student and administrator functions and user-interface improvements.
-Obarisiagbon, Stephenie (E050793): Drafting of Chapters One to Three and the reference list.
